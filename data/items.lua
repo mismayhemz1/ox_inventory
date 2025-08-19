@@ -223,3 +223,11 @@ return {
 		weight = 80,
 	},
 }
+
+['weapon_pistol'] = {
+  label = 'Pistol', weight = 3000, stack = false, close = true
+},
+['ammo-9'] = {
+  label = '9mm Ammo', weight = 10, stack = true
+}
+
