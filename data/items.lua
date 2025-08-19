@@ -221,5 +221,12 @@ return {
 	['scrapmetal'] = {
 		label = 'Scrap Metal',
 		weight = 80,
+
+
+},
+['repairkit'] = {
+  label = 'Repair Kit', weight = 1000, stack = true, close = true
+}
+
 	},
 }
